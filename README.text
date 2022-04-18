@@ -1,5 +1,8 @@
 #Kyle R Fogerty
 
+#Basic Run of Exe (Currently only complied for MacOS x86):
+Download FE from the dist directory.
+
 Requirements to Run With Own Salts:
 1. pip install cryptography
 2. Create Salt Folder
