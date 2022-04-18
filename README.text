@@ -1,9 +1,10 @@
 #Kyle R Fogerty
 
 Requirements to Run With Own Salts:
-1. Create Salt Folder
-2. Update Path To Salt Files
-3. Use Create Salt Batch in Salt Handling to create Salt Keys
+1. pip install cryptography
+2. Create Salt Folder
+3. Update Path To Salt Files
+4. Use Create Salt Batch in Salt Handling to create Salt Keys
 
 #Optional:
 #Make to Exe
