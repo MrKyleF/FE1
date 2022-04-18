@@ -1,0 +1,10 @@
+#Kyle R Fogerty
+
+Requirements to Run With Own Salts:
+1. Create Salt Folder
+2. Update Path To Salt Files
+3. Use Create Salt Batch in Salt Handling to create Salt Keys
+
+#Optional:
+#Make to Exe
+pyinstaller --add-data '(path_to_salt_dir)/:datas' --onefile FE.py
